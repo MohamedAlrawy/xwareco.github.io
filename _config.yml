@@ -1,0 +1,27 @@
+# Site settings
+title:          xWARE Tech
+description:    "Tech Blog by Our Software Engineers"
+# baseurl:        "/tale"
+url:            "https://xwareco.github.io"
+
+# Author
+author:
+  name:         xWARE Team
+  url:          https://www.xware.co
+  email:        info@xware.co
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
