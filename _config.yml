@@ -1,13 +1,12 @@
 # Site settings
-title:          xWARE Tech
+title:          xWARE Tech Blog
 description:    "Tech Blog by Our Software Engineers"
-# baseurl:        "/tale"
 url:            "https://xwareco.github.io"
 
 # Author
 author:
-  name:         xWARE Team
-  url:          https://www.xware.co
+  name:         xWARE Integrated Solutions
+  url:          http://www.xware.co
   email:        info@xware.co
 
 # Build settings
