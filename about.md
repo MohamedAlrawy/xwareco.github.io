@@ -1,15 +1,17 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Prof. Hosny Ibrahim"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+> Once we know something, we find it hard to imagine what it was like not to know it
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+At xWare, we believe in our talented software engineers who are capable of employing technology to solve different problems, improve our lives and participate in achieving the great missions of the world. That’s why we invest our biggest effort in providing the proper environment and infrastructure to deliver successful software projects. 
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+Engineering skills, commitment and quality are at the core of our business. 
 
-Thanks for reading!
+# This Blog
+In this _Tech Blog_, our software engineers write down opinionated pieces of posts. They represent how we see things at xWARE - at the very low-level detail.
+
+We hope that you enjoy the technical pieces written here. We are looking forward to engaging in fruitful discussions on the posts.
