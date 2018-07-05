@@ -35,3 +35,21 @@ disqus: xware-tech-blog
 
 # Google Analytics
 google_analytics: UA-64809332-2
+
+# Social Media Links
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: info@xware.co
+  facebook: xWARE.Integrated.Solutions
+  flickr:
+  github: xwareco
+  instagram:
+  linkedin: xWARE-integrated-solutions
+  pinterest:
+  rss: anything # just type anything here for a working RSS icon
+  twitter: xwareco
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube:  # channel/<your_long_string> or user/<user-name>
+  googleplus:  # anything in your profile username that comes after plus.google.com/
